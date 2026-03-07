@@ -1,24 +1,24 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/genevievechin?label=Followers&style=flat-square)](https://github.com/genevievechin)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-30-blue?style=flat-square)](https://github.com/genevievechin)
+[![MLH Member](https://img.shields.io/badge/MLH-Member-red?style=flat-square)](https://mlh.io)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hey there, I'm **Genevieve Chin**! I'm a passionate developer and active member of the Major League Hacking community. I love building hackathon projects and exploring new technologies, with experience in Python, HTML, and various web technologies.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 🎓 Education: National University & National-Louis University
+- 📅 Hacking Since: 2020
+- 👥 GitHub: 8 followers, 30+ public repositories
+- 🏆 MLH Community Member
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🏥 **COVID-19 Help Space** — Hackathon project addressing pandemic challenges (HTML) — [github.com/genevievechin/COVID-19-Help-Space](https://github.com/genevievechin/COVID-19-Help-Space)
+- 🐍 **MLH Python Workshop** — Educational Python workshop materials for MLH community (Python) — [github.com/genevievechin/MLH-Python-Workshop-1](https://github.com/genevievechin/MLH-Python-Workshop-1)
+- 🤖 **GitHub Copilot Demo** — Demonstration project showcasing GitHub Copilot capabilities (Demo) — [github.com/genevievechin/genevievechin-copilot-demo](https://github.com/genevievechin/genevievechin-copilot-demo)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, HTML, JavaScript
+- 🔭 Focus: Hackathon Development, Community Building, Educational Content
+- ❤️ Interests: MLH Events, Open Source, Web Development
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
