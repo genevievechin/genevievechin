@@ -1,24 +1,27 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+<div align="center">
+
+# Genevieve Chin
+
+### Computer Science student at UCLA | Hackathon coach
+
+[![GitHub](https://img.shields.io/badge/GitHub-genevievechin-181717?style=flat-square&logo=github)](https://github.com/genevievechin)
+[![Public repositories](https://img.shields.io/badge/Public%20repositories-32-2ea44f?style=flat-square)](https://github.com/genevievechin?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/genevievechin?label=Followers&style=flat-square)](https://github.com/genevievechin)
+
+</div>
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+Hi, I'm Genevieve. I'm studying Computer Science at the University of California, Los Angeles and building my experience through software projects, open source, and the hackathon community.
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎓 Computer Science at [UCLA](https://www.ucla.edu/)
+- 🧑‍🏫 Former Coach at [Major League Hacking](https://mlh.io/)
+- 📍 Based in the United States
+- 💻 Find me on [GitHub](https://github.com/genevievechin)
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## GitHub
+
+I have 32 public repositories and 13 private repositories. Browse my work, experiments, and projects on [my GitHub profile](https://github.com/genevievechin).
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
